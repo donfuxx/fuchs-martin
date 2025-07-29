@@ -21,7 +21,6 @@
 title: Thomas Fuchs-Martin
 description: >- # this means to ignore newlines until "baseurl:"
   The website of Thomas Fuchs-Martin.
-baseurl: "/fuchs-martin" # the subpath of your site, e.g. /blog
 domain: "thomas.fuchs-martin.com" # the base hostname & protocol for your site, e.g. example.com
 url: "https://thomas.fuchs-martin.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  donfuxx
