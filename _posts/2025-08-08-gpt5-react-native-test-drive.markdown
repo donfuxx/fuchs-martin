@@ -5,7 +5,7 @@ date:   2025-08-08 10:00:00 +0100
 categories: linkedin ai development
 ---
 
-I did a quick test drive of GPT-5 with Copilot and asked it to create a simple React Native Expo app from scratch:
+Inspired by [Michael R. Larson's LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7359349785654423553/), I did a quick test drive of GPT-5 with Copilot and asked it to create a simple React Native Expo app from scratch:
 
 ## 1. Initial Prompt:
 
