@@ -33,7 +33,7 @@ I repeated the first prompt to nudge it to actually add the required Hello World
 
 However, unit tests were broken and didn't compile due to import errors.
 
-![GPT-5 React Native App Screenshot](/assets/images/gpt5-react-native-app.png)
+![GPT-5 React Native App Screenshot]({{ "/assets/images/gpt5-react-native-app.png" | relative_url }})
 *Screenshot of the React Native app created by GPT-5*
 
 ## 3. Fix the Tests:
