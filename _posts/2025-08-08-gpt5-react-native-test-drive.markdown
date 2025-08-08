@@ -58,4 +58,4 @@ The experience shows that while GPT-5 has improved capabilities, it still requir
 
 ---
 
-*What are your experiences with GPT-5? Have you noticed similar patterns in its behavior? Let me know your thoughts!*
+*What are your experiences with GPT-5? Have you noticed similar patterns in its behavior? [Let me know your thoughts on LinkedIn!](https://www.linkedin.com/in/thomasfuchsmartin/)*
