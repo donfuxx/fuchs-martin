@@ -9,19 +9,17 @@ Inspired by [Michael R. Larson's LinkedIn post](https://www.linkedin.com/feed/up
 
 ## 1. Initial Prompt:
 
-```
-Create a new React Native app in folder <folder>:
-
-It should use the latest React Native version with new architecture enabled and latest Expo version. The app should be written following the best practices. Code should be maintainable and also be kept simple. Avoid adding excessive third party dependencies.
-
-Functionality:
-
-show a simple screen with an input text field and a button. If button clicked the text should show "Hello <textFieldInput>"
-
-unit test to verify functionality. (can use jest library if needed)
-
-material ui style
-```
+> Create a new React Native app in folder `<folder>`:
+> 
+> It should use the latest React Native version with new architecture enabled and latest Expo version. The app should be written following the best practices. Code should be maintainable and also be kept simple. Avoid adding excessive third party dependencies.
+> 
+> **Functionality:**
+> 
+> Show a simple screen with an input text field and a button. If button clicked the text should show "Hello `<textFieldInput>`"
+> 
+> Unit test to verify functionality. (can use jest library if needed)
+> 
+> Material UI style
 
 **Result:** It created a new empty project with dependencies added, but without the Hello World functionality. It wanted me to manually open the project in VS Code first before proceeding.
 
@@ -38,9 +36,7 @@ However, unit tests were broken and didn't compile due to import errors.
 
 ## 3. Fix the Tests:
 
-```
-Ensure unit tests are succeeding and valuable
-```
+> Ensure unit tests are succeeding and valuable
 
 **Result:** Missing dependencies and imports got fixed and unit tests actually succeed.
 
@@ -53,8 +49,6 @@ Ensure unit tests are succeeding and valuable
 - **Decent UI style,** which came pretty close to what I had in mind
 
 - **Overall lots of hand-holding required** to get a simple Hello World app running. Not really AGI for me.
-
-The experience shows that while GPT-5 has improved capabilities, it still requires significant guidance and iteration to deliver complete, working solutions. The tendency to skip important details like working tests and the need for manual intervention suggests we're still in the "AI assistant" phase rather than the "AI developer" phase.
 
 ---
 
