@@ -27,9 +27,21 @@ github_username:  donfuxx
 linkedin_username: thomasfuchsmartin
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+# Minima theme settings
+minima:
+  skin: dark
+  social_links:
+    - title: GitHub Profile
+      icon: github
+      url: "https://github.com/donfuxx"
+    - title: LinkedIn Profile
+      icon: linkedin
+      url: "https://linkedin.com/in/thomasfuchsmartin"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
