@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Bridge is Gone in React Native—Let’s Stop Writing About It"
+title:  "The React Native Bridge is gone"
 date:   2025-09-26 10:00:00 +0100
 categories: linkedin react-native development
 ---
