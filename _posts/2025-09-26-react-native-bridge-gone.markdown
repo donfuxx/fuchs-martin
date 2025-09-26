@@ -5,7 +5,7 @@ date:   2025-09-26 10:00:00 +0100
 categories: linkedin react-native development
 ---
 
-For years, the "bridge" architecture in React Native was a hot topic—every article, tutorial, and conference talk seemed to mention it. But with the new React Native architecture, the bridge is officially gone. It’s time to move on!
+For years, the "bridge" architecture in React Native was a hot topic. Every article, tutorial, and conference talk seemed to mention it. But with the new React Native architecture, the bridge is officially gone. It’s time to move on!
 If someone complains about the React Native bridge in 2025+ then there's a good chance they haven't caught up with latest RN development trends or they are just using LLM generated content (AI training data is still biased towards older content)
 
 ## What Changed?
